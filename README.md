@@ -15,13 +15,41 @@ I love bridging the gap between **data and decision-making** — translating num
 
 ---
 ### ⚙️ Tech Stack  
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-336791?style=flat&logo=postgresql&logoColor=white)
-![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=flat&logo=powerbi&logoColor=black)
-![Tableau](https://img.shields.io/badge/Tableau-E97627?style=flat&logo=tableau&logoColor=white)
-![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat&logo=scikit-learn&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat&logo=numpy&logoColor=white)
+
+#### 💻 Programming & Querying  
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
+![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)
+
+#### 🧩 Libraries & Frameworks  
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+![Scikit-learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-11557c?style=for-the-badge&logo=matplotlib&logoColor=white)
+![Seaborn](https://img.shields.io/badge/Seaborn-2E4C6D?style=for-the-badge&logo=python&logoColor=white)
+![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
+
+#### 📊 Visualization & BI Tools  
+![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
+![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white)
+![Excel](https://img.shields.io/badge/Microsoft%20Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
+
+#### 🧠 Core Expertise  
+![Data Cleaning](https://img.shields.io/badge/Data%20Cleaning-4E9A06?style=for-the-badge)
+![EDA](https://img.shields.io/badge/Exploratory%20Data%20Analysis-006699?style=for-the-badge)
+![Predictive Modeling](https://img.shields.io/badge/Predictive%20Modeling-990099?style=for-the-badge)
+![Regression](https://img.shields.io/badge/Regression%20Analysis-FF6F00?style=for-the-badge)
+![Classification](https://img.shields.io/badge/Classification-0078D7?style=for-the-badge)
+![ETL](https://img.shields.io/badge/ETL%20Pipelines-02569B?style=for-the-badge)
+![Forecasting](https://img.shields.io/badge/Forecasting-FFB400?style=for-the-badge)
+![RFM Analysis](https://img.shields.io/badge/RFM%20Analysis-9B1D20?style=for-the-badge)
+
+#### 💡 Soft Skills  
+![Data Storytelling](https://img.shields.io/badge/Data%20Storytelling-4E4FEB?style=for-the-badge)
+![Problem Solving](https://img.shields.io/badge/Problem%20Solving-1ABC9C?style=for-the-badge)
+![Analytical Thinking](https://img.shields.io/badge/Analytical%20Thinking-8E44AD?style=for-the-badge)
+![Collaboration](https://img.shields.io/badge/Collaboration-3498DB?style=for-the-badge)
+
 
 <details>
   <summary>⚙️ Technical Skills</summary>
