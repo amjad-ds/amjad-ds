@@ -1,7 +1,6 @@
 # 👋 Hi, I'm Syed Mohammed Amjad  
 
-🎯 **Data Science & Analytics Professional**  
-📍 Hyderabad, India  
+🎯 **Data Science & Analytics Professional** |📍 Hyderabad, India  
 📊 Transforming Data into Strategic Insights | Python • SQL • Power BI • Machine Learning  
 
 ---
