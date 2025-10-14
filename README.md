@@ -33,22 +33,6 @@ I love bridging the gap between **data and decision-making** — translating num
 ![Classification](https://img.shields.io/badge/Classification-9C27B0?style=for-the-badge)
 ![ETL](https://img.shields.io/badge/ETL-4CAF50?style=for-the-badge)
 ![Forecasting](https://img.shields.io/badge/Forecasting-795548?style=for-the-badge)
-![Data Storytelling](https://img.shields.io/badge/Data%20Storytelling-FF4081?style=for-the-badge)
-![Problem Solving](https://img.shields.io/badge/Problem%20Solving-FFB300?style=for-the-badge)
-![Analytical Thinking](https://img.shields.io/badge/Analytical%20Thinking-009688?style=for-the-badge)
-![Collaboration](https://img.shields.io/badge/Collaboration-4285F4?style=for-the-badge)
-
-
-<details>
-  <summary>⚙️ Technical Skills</summary>
-
-**Languages & Querying:** Python, SQL, R (Basics)  
-**Libraries & Frameworks:** Pandas, NumPy, Scikit-learn, Matplotlib, Seaborn, OpenCV  
-**Visualization & BI Tools:** Power BI, Tableau, MS Excel  
-**Core Expertise:** Data Cleaning • EDA • Predictive Modeling • Regression & Classification • ETL Pipelines • Forecasting • RFM Analysis  
-**Soft Skills:** Data Storytelling • Problem Solving • Analytical Thinking • Collaboration  
-
-</details>
 
 ---
 
