@@ -53,21 +53,6 @@ I love bridging the gap between **data and decision-making** — translating num
 
 ---
 
-### 🚗 Real-Time Object Detection for Autonomous Driving – *YOLOv3 | OpenCV | Flask*  
-- Built a Flask-based web interface for real-time detection  
-- Achieved **15+ FPS** detection speed for vehicles and pedestrians  
-- Simulated perception modules for **intelligent transportation systems**  
-
----
-
-## 📜 Certifications  
-- **Deloitte Australia Data Analytics Job Simulation** – Forage (Aug 2025)  
-- **Python for Data Science & Machine Learning Bootcamp** – Udemy (Jose Portilla)  
-- **Mathematics for Data Science & GenAI** – Udemy (Krish Naik)  
-- **Data Science Workshop** – Wipro DICE ID + Mindenious  
-
----
-
 ## 🎓 Education  
 **Bachelor of Engineering – Computer Science**  
 📍 Lords Institute of Engineering & Technology, Hyderabad (2021–2025)  
@@ -76,9 +61,10 @@ I love bridging the gap between **data and decision-making** — translating num
 ---
 
 ## 📈 GitHub Insights  
-
-![Amjad's GitHub stats](https://github-readme-stats.vercel.app/api?username=amjad-ds&show_icons=true&theme=tokyonight)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=amjad-ds&layout=compact&theme=tokyonight)  
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=amjad-ds&show_icons=true&theme=tokyonight" height="150"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=amjad-ds&layout=compact&theme=tokyonight" height="150"/>
+</p>
 
 ---
 
