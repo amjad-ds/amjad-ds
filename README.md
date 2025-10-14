@@ -48,7 +48,8 @@ I love bridging the gap between **data and decision-making** — translating num
 ![Analytical Thinking](https://img.shields.io/badge/Analytical%20Thinking-8E44AD?style=for-the-badge)
 ![Collaboration](https://img.shields.io/badge/Collaboration-3498DB?style=for-the-badge)
 
-
+Tech Stack:
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColorhttps://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logohttps://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=whitehttps://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColorhttps://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColorhttps://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikithttps://img.shields.io/badge/Seaborn-2E4C6D?style=for-the-badge&logo=python&logohttps://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor, Tableau, Excel, EDA, Predictive Modeling, Regression, Classification, ETL, Forecasting, Data Storytelling, Problem Solving, Analytical Thinking, Collaboration.
 
 <details>
   <summary>⚙️ Technical Skills</summary>
