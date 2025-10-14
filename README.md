@@ -16,12 +16,16 @@ I love bridging the gap between **data and decision-making** — translating num
 
 ---
 
-## ⚙️ Technical Skills  
+<details>
+  <summary>⚙️ Technical Skills</summary>
+
 **Languages & Querying:** Python, SQL, R (Basics)  
 **Libraries & Frameworks:** Pandas, NumPy, Scikit-learn, Matplotlib, Seaborn, OpenCV  
 **Visualization & BI Tools:** Power BI, Tableau, MS Excel  
 **Core Expertise:** Data Cleaning • EDA • Predictive Modeling • Regression & Classification • ETL Pipelines • Forecasting • RFM Analysis  
 **Soft Skills:** Data Storytelling • Problem Solving • Analytical Thinking • Collaboration  
+
+</details>
 
 ---
 
@@ -50,13 +54,6 @@ I love bridging the gap between **data and decision-making** — translating num
 - Designed interactive Tableau dashboards analyzing workforce attrition  
 - Built **Logistic Regression and Decision Tree models** achieving **78% accuracy**  
 - Proposed **data-driven retention strategies** from predictive insights  
-
----
-
-## 🎓 Education  
-**Bachelor of Engineering – Computer Science**  
-📍 Lords Institute of Engineering & Technology, Hyderabad (2021–2025)  
-**CGPA:** 8.18 / 10  
 
 ---
 
