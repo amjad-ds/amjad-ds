@@ -69,7 +69,9 @@ I love bridging the gap between **data and decision-making** — translating num
   <img src="https://github-readme-stats.vercel.app/api?username=amjad-ds&show_icons=true&theme=tokyonight" height="150"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=amjad-ds&layout=compact&theme=tokyonight" height="150"/>
 </p>
-![Profile Views](https://komarev.com/ghpvc/?username=amjad-ds)
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=amjad-ds&label=Profile%20Views&color=blueviolet&style=for-the-badge" alt="Profile Views"/>
+</p>
 
 ---
 
